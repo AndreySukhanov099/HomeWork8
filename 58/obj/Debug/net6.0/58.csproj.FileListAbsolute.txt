@@ -1,0 +1,15 @@
+C:\Users\79118\Desktop\Убучение\Введение в программирование\Dz8\58\bin\Debug\net6.0\58.exe
+C:\Users\79118\Desktop\Убучение\Введение в программирование\Dz8\58\bin\Debug\net6.0\58.deps.json
+C:\Users\79118\Desktop\Убучение\Введение в программирование\Dz8\58\bin\Debug\net6.0\58.runtimeconfig.json
+C:\Users\79118\Desktop\Убучение\Введение в программирование\Dz8\58\bin\Debug\net6.0\58.dll
+C:\Users\79118\Desktop\Убучение\Введение в программирование\Dz8\58\bin\Debug\net6.0\58.pdb
+C:\Users\79118\Desktop\Убучение\Введение в программирование\Dz8\58\obj\Debug\net6.0\58.csproj.AssemblyReference.cache
+C:\Users\79118\Desktop\Убучение\Введение в программирование\Dz8\58\obj\Debug\net6.0\58.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79118\Desktop\Убучение\Введение в программирование\Dz8\58\obj\Debug\net6.0\58.AssemblyInfoInputs.cache
+C:\Users\79118\Desktop\Убучение\Введение в программирование\Dz8\58\obj\Debug\net6.0\58.AssemblyInfo.cs
+C:\Users\79118\Desktop\Убучение\Введение в программирование\Dz8\58\obj\Debug\net6.0\58.csproj.CoreCompileInputs.cache
+C:\Users\79118\Desktop\Убучение\Введение в программирование\Dz8\58\obj\Debug\net6.0\58.dll
+C:\Users\79118\Desktop\Убучение\Введение в программирование\Dz8\58\obj\Debug\net6.0\refint\58.dll
+C:\Users\79118\Desktop\Убучение\Введение в программирование\Dz8\58\obj\Debug\net6.0\58.pdb
+C:\Users\79118\Desktop\Убучение\Введение в программирование\Dz8\58\obj\Debug\net6.0\58.genruntimeconfig.cache
+C:\Users\79118\Desktop\Убучение\Введение в программирование\Dz8\58\obj\Debug\net6.0\ref\58.dll
